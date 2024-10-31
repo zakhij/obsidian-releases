@@ -13747,5 +13747,12 @@
     "author": "Aly Thobani",
     "description": "Quickly add, change, or remove callout wrappers in your notes.",
     "repo": "alythobani/obsidian-callout-toggles"
-  }
+  },
+	{
+		"id": "activity-heatmap",
+		"name": "Activity Heatmap",
+		"author": "Zak Hijaouy",
+		"description": "Tracks and visualizes app activity, similar to GitHub's contribution chart.",
+		"repo": "zakhij/obsidian-activity-heatmap"
+	}
 ]
